@@ -1,10 +1,10 @@
-# 🏎️ Pit Strategy Prediction using Machine Learning (F1 Dataset)
+# Pit Strategy Prediction using Machine Learning (F1 Dataset)
 
 This project is a machine learning pipeline that predicts whether a driver will pit on the next lap using race telemetry data. The solution uses feature engineering, multiple ML models, and a soft-voting ensemble classifier.
 
 ---
 
-## 🚀 Problem Statement
+## Problem Statement
 
 Given lap-by-lap racing data, predict:
 
