@@ -111,3 +111,9 @@ This ensemble improved stability and ROC-AUC performance.
 - Scikit-learn
 - XGBoost
 - LightGBM
+
+---
+
+👨‍💻 Author
+
+Built by Amrit Gorai as part of hands-on Machine Learning and MLOps practice focused on production-ready AI systems.
