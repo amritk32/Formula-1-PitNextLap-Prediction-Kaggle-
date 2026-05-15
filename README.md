@@ -27,7 +27,7 @@ Whether a driver will pit in the next lap or not.
 - Removed irrelevant columns (`id`, `Driver`, `RaceProgress`) for training purpose
 - Handled missing values
 - Analyzed through Exploratory Data Analysis
-- Stratified train-test split
+
 
 ### 2. Feature Engineering
 Created domain-specific racing features:
